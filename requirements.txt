@@ -1,0 +1,6 @@
+langchain_core==1.6.11
+langchain_openai==1.7.2
+langgraph==1.2.15
+mcrcon==0.7.0
+NBT==1.5.1
+typing_extensions==4.16.0
